@@ -1,0 +1,6 @@
+C:\Users\devpc\source\repos\UnweExamples\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\devpc\source\repos\UnweExamples\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\devpc\source\repos\UnweExamples\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\devpc\source\repos\UnweExamples\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\devpc\source\repos\UnweExamples\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\devpc\source\repos\UnweExamples\ReferenceTypes\obj\Debug\ReferenceTypes.pdb
